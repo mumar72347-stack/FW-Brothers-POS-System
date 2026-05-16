@@ -40,6 +40,17 @@ A complete Point of Sale (POS) and Inventory Management System built using **PHP
 * products.txt → Product database
 * bills.txt → Billing records
 
+  ## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Billing System
+![Billing](screenshots/billing.png)
+
+### History Page
+![History](screenshots/history.png)
+
 ---
 
 ## ⚙️ How to Run This Project
