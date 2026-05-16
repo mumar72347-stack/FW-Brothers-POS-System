@@ -46,10 +46,10 @@ A complete Point of Sale (POS) and Inventory Management System built using **PHP
 ![Dashboard](Screenshot 2026-05-16 162123.png)
 
 ### Billing System
-![Billing]()
+![Billing](Screenshot 2026-05-16 164213.png)
 
 ### History Page
-![History](screenshots/history.png)
+![History]()
 
 ---
 
